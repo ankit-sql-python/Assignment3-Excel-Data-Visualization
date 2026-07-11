@@ -1,5 +1,8 @@
 # Assignment 3 - Excel Data Visualization
 
+## 👤 Author
+**Ankit Saraswat**
+
 ## 📌 Project Overview
 This project demonstrates data visualization techniques using Microsoft Excel and Google Sheets.
 
